@@ -1,5 +1,7 @@
 # Inbreeding: When Generative AI Starts Training on Itself
 
+CORRIGENDUM: We made an programming error. To have the classification accuracy drop to ca. 65% (as shown on the poster), 70 (and not 10) generations are required.
+
 A collaboration with Florian Burger & Nityah Shah.
 [Read the full project report on Kaggle.](https://www.kaggle.com/code/florianburger3/master-deeplearning2023)
 
